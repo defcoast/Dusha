@@ -1,0 +1,30 @@
+{
+  "name": "dusha",
+  "version": "1.0.0",
+  "description": "backend for web-shop Dusha",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defcoast/Dusha.git"
+  },
+  "keywords": [
+    "dusha",
+    "shop",
+    "clothes"
+  ],
+  "author": "Rozhkov Alexander <rozhkov2222@icloud.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/defcoast/Dusha/issues"
+  },
+  "homepage": "https://github.com/defcoast/Dusha#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
